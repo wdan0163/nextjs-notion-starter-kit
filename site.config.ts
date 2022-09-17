@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'eb31e595f77f4004a7c365aa69bd9b81',
+  rootNotionPageId: '16b9784daaee4c62880d4444daddf8a7',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'wdan',
-  domain: 'https://cyan-lupin-08a.notion.site/Quick-Note-eb31e595f77f4004a7c365aa69bd9b81',
+  domain: 'https://cyan-lupin-08a.notion.site/Quick-Note-16b9784daaee4c62880d4444daddf8a7',
   author: 'wdan',
 
   // open graph metadata (optional)
